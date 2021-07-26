@@ -1,2 +1,3 @@
 # hello_world
-example repository
+
+Hi everyone, this is an example of how to update code
